@@ -1,4 +1,7 @@
-This project explores the driver and rider retention involving data wrangling, exploratory data analysis, experimental and metrics design, and predictive modeling.
+This project explores the driver and rider retention relationship based on operational data collected by Ultimate Inc.
+
+The scope involves data wrangling, exploratory data analysis, experimental and metrics design, predictive modeling, and final discussion.
+
 
 Final Discussion on how to improve retention rate:
 
