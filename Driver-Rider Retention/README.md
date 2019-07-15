@@ -1,4 +1,4 @@
-This project explores the driver and rider retention relationship based on operational data collected by Ultimate Inc.
+This project explores the driver and rider retention relationship using a set of 50,000 operational data collected by Ultimate Inc.
 
 The scope involves data wrangling, exploratory data analysis, experimental and metrics design, predictive modeling, and final discussion.
 
