@@ -3,7 +3,7 @@ This project explores the driver and rider retention relationship based on opera
 The scope involves data wrangling, exploratory data analysis, experimental and metrics design, predictive modeling, and final discussion.
 
 
-Final Discussion on how to improve retention rate:
+Final discussion on how to improve retention rate:
 
 The best predictors are duration, city, ultimate_black_user and trips_in_first_30_days.
 
