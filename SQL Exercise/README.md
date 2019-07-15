@@ -1,0 +1,1 @@
+This project involves SQL practice on relational database for a country club.

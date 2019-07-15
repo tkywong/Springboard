@@ -1,0 +1,1 @@
+This project involves performing data analytics on rate of readmission versus hospital discharges and looking at insights from the data.

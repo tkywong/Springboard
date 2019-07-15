@@ -1,0 +1,1 @@
+This project involves collecting data from the Frankfurt Stock Exchange through Quandl API and performing data analytics on the dataset.

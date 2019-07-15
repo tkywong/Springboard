@@ -1,0 +1,1 @@
+This project involves performing analytics on collected data of infrastructure projects in the world in json format.
